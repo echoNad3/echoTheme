@@ -2,7 +2,7 @@
   "name": "echonade3theme",
   "displayName": "echoTheme",
   "description": "A custom VS Code theme made by echoNad3.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -17,5 +17,9 @@
     ]
   },
   "publisher": "echoNad3",
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://https://github.com/echoNad3/echoTheme.git"
+  }
 }
