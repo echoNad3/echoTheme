@@ -2,7 +2,7 @@
   "name": "echonade3theme",
   "displayName": "echoTheme",
   "description": "A custom VS Code theme made by echoNad3.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -16,5 +16,6 @@
       }
     ]
   },
-  "publisher": "echoNad3"
+  "publisher": "echoNad3",
+  "icon": "icon.png"
 }
